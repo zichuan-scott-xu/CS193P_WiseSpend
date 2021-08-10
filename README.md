@@ -1,4 +1,3 @@
-user:scottxu (Scott, Xu)
 
 Features of the app for testing:
 
